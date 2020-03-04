@@ -4,7 +4,7 @@ const filesToCache = [
     '/',
     '/index.html',
     fontRequest,
-    '/elm.js'
+    '/elm.min.js'
 ];
 
 /* Start the service worker and cache all of the app's content */
